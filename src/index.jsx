@@ -12,7 +12,7 @@ import Footer, { messages as footerMessages } from '@edx/frontend-component-foot
 
 import appMessages from './i18n';
 import Routes from './routes/Routes';
-import store from './store';
+import store from './examples/basic-redux/store';
 
 import './index.scss';
 
